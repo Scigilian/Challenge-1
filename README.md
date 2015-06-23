@@ -9,7 +9,7 @@
  - Averages of the max binding and the non-specific binding values
  - Standard deviations of the max binding and non-specific binding values
  - Background-subtracted percent inhibition of each of the drug responses, defined as:
- > Inhibition (%) = 100 - ((Measured Binding - Min) / (Max - Min)) x 100
+> Inhibition (%) = 100 - ((Measured Binding - Min) / (Max - Min)) x 100
 3. Plot on a chart the observed values and calculated statistics such that it would be easy to visually detect abnormal results.
 4. Present the drug responses as well as their inhibitions in a table such that it would be easy to identify abnormal or interesting drugs.
 
