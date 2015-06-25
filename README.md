@@ -31,4 +31,7 @@ You will need the following installed on your development system:
  - Java 8
  - Maven 3.2.5
 
+#### Publishing your solution
+Please don't fork the repo since that would publish your solution to all candidates. Instead, clone the repo locally and, once you're done, ZIP it up and send it to us.
+
 ### Good luck!
