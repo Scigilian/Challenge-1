@@ -1,7 +1,7 @@
 ## Scigilian Challenge 1
 
 #### In order to evaluate your skills we would like you to develop a web application satisfying the following requirements:
-1. Parse a user-supplied CSV-formatted text file, the /testData/96-well-endpoint.csv file should serve as a template of the structure of the file.
+1. Parse a user-supplied CSV-formatted text file, the ```/testData/96-well-endpoint.csv``` file should serve as a template of the structure of the file.
  - Values in column 1 are maximum binding values (Max), the average of these is considered the 100% drug effect threshold.
  - Values in column 12 are non-specific binding values (Min), the average of these is considered the 0% drug effect threshold.
  - Values in columns 2 through 11 are drug response values (Measured Binding). Each value is a separate drug's response.
